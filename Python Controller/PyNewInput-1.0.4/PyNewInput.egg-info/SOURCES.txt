@@ -1,0 +1,7 @@
+README.md
+setup.py
+NewInput/__init__.py
+PyNewInput.egg-info/PKG-INFO
+PyNewInput.egg-info/SOURCES.txt
+PyNewInput.egg-info/dependency_links.txt
+PyNewInput.egg-info/top_level.txt
